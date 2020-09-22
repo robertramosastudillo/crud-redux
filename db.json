@@ -44,6 +44,11 @@
       "nombre": "Piña",
       "precio": 450,
       "id": 9
+    },
+    {
+      "nombre": "Papaya",
+      "precio": 450,
+      "id": 10
     }
   ]
 }
