@@ -2,13 +2,28 @@
   "productos": [
     {
       "nombre": "Papaya",
-      "precio": 450,
+      "precio": "700",
       "id": 10
     },
     {
       "nombre": "Piña",
       "precio": 500,
       "id": 11
+    },
+    {
+      "nombre": "Manzana",
+      "precio": "500",
+      "id": 12
+    },
+    {
+      "nombre": "Hola",
+      "precio": 1400,
+      "id": 13
+    },
+    {
+      "nombre": "Sandia",
+      "precio": 4000,
+      "id": 14
     }
   ]
 }
